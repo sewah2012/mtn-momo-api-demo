@@ -1,0 +1,12 @@
+server:
+  port: 8282
+spring:
+  application:
+    name: momo-api-demo
+
+my:
+  mtn-momo:
+    target-environment: sandbox
+    ocp-apim-subscription-key: e6ac20a65ca74163950fa2165e23cee6
+    api-key: 7aea62b857e04f0fb25082b7f5cebdf3
+    api-user-id: 8a57f787-0eae-4d9f-89d9-6d75203dbf3f
